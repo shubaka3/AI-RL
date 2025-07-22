@@ -47,4 +47,4 @@ và phải rõ về pipeline,log, tối ưu luồng để còn đưa vào môi t
 
 =>  ALL thông tin trên chỉ là giải thích cho người chưa hoặc ít kiến thức về AI hiểu, và thật sự đọc xong thì 80% sẽ hiểu rõ bản thân thiếu gì và nên bắt đầu học những gì, chúc bro thành công 
 
-Tui vừa trúng Tech Lead AI ở cty to đùng chà bá luôn Muhahahaha
+Tui vừa trúng Tech Lead AI ở cty to đùng chà bá luôn Muhahahaha ( Tui viết cái này mà k dùng chatgpt, dùng kiến thức thuần thúy trong lúc brain rot nên sẽ thiếu nhưng tui đảm bảo 100% cái này phù hợp và ok cho ai vừa bắt đầu với AI để hiểu và sử dụng được ) 
