@@ -48,3 +48,11 @@ và phải rõ về pipeline,log, tối ưu luồng để còn đưa vào môi t
 =>  ALL thông tin trên chỉ là giải thích cho người chưa hoặc ít kiến thức về AI hiểu, và thật sự đọc xong thì 80% sẽ hiểu rõ bản thân thiếu gì và nên bắt đầu học những gì, chúc bro thành công 
 
 Tui vừa trúng Tech Lead AI ở cty to đùng chà bá luôn Muhahahaha ( Tui viết cái này mà k dùng chatgpt, dùng kiến thức thuần thúy trong lúc brain rot nên sẽ thiếu nhưng tui đảm bảo 100% cái này phù hợp và ok cho ai vừa bắt đầu với AI để hiểu và sử dụng được ) 
+-> cách chạy các file, AI-RL-TRAINING / AI-RL
+- Tạo máy ảo python: python -m venv venv
+- Active máy ảo:  venv\Scripts\activate
+- Cài Lib: pip install -r requirements.txt
+- AI-RL-TRAINING : chạy python train.py / AI-RL chạy python training_personlazied_gì_đó_ấy .py
+- Done ALL: copy paste file trainign từ AI-RL-TRAINING vào AI-RL sau đó mở terminal của AI-RL đã active chạy: uvicorn main:app --host 0.0.0.0 --port 8001 --reload  
+-> done : test qua api post man hoặc truy cập localhost:8001/doc# gì đó là ok 
+-> lưu ý với all file python muốn làm gì cũng active máy ảo trước còn k thì bạn xóa python là vừa
